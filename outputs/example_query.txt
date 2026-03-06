@@ -1,0 +1,28 @@
+Query:
+who sent mail
+
+Top Retrieved Relationships:
+
+1.
+Email sender --sent--> email
+Distance score: 15.52
+
+2.
+Email recipient --sent to--> email
+Distance score: 15.56
+
+3.
+email --promises--> to email a final draft to the recipient by Tuesday, March 27
+Distance score: 20.09
+
+4.
+Mark Sagel --send--> Report
+Distance score: 20.24
+
+5.
+email --sent--> Alan
+Distance score: 20.53
+
+These results were produced by querying the memory graph built from a subset of 50 Enron emails. 
+The system retrieves the most semantically similar claims using vector embeddings and returns the 
+relationships along with their similarity scores.
