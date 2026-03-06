@@ -27,7 +27,7 @@ Steps-
 
 1. Clone the repo
 
-git clone <repo-url>
+git clone <https://github.com/YashChoudhary12/layer10-grounded-memory.git>
 cd layer10-grounded-memory
 
 
