@@ -7,15 +7,5 @@ pydantic
 tqdm
 scikit-learn
 sentence-transformers
-openai
-python-dotenv
-sqlalchemy
 psycopg2-binary
 python-dotenv
-pandas
-tqdm
-networkx
-pyvis
-pydantic
-sentence-transformers
-tqdm
